@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Computer Science student at UNRC** (Universidad Nacional de Río Cuarto) and a **Full Stack Developer** who enjoys building products end to end: clean, responsive interfaces on the front and robust, well-structured APIs and data models on the back.
 
@@ -21,7 +21,7 @@ I'm a **Computer Science student at UNRC** (Universidad Nacional de Río Cuarto)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,7 +42,7 @@ I'm a **Computer Science student at UNRC** (Universidad Nacional de Río Cuarto)
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### [PediAlgo](https://pedialgoar.com/)
 > A platform for requesting and finding products and services, built with a React + Tailwind frontend and a Spring Boot + PostgreSQL backend.
@@ -53,7 +53,7 @@ I'm a **Computer Science student at UNRC** (Universidad Nacional de Río Cuarto)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -66,15 +66,15 @@ I'm a **Computer Science student at UNRC** (Universidad Nacional de Río Cuarto)
 
 ---
 
-## 🌱 Currently
+##  Currently
 
-- 🔭 Building production features for PediAlgo
-- 🧩 Strengthening my knowledge of Spring Boot security and REST API design
-- 📚 Studying for my CS degree at UNRC
+-  Building production features for PediAlgo
+-  Strengthening my knowledge of Spring Boot security and REST API design
+-  Studying for my CS degree at UNRC
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -89,6 +89,6 @@ I'm a **Computer Science student at UNRC** (Universidad Nacional de Río Cuarto)
 
 <div align="center">
 
-⭐ *Thanks for visiting my profile!* ⭐
+ *Thanks for visiting my profile!* 
 
 </div>
