@@ -88,7 +88,6 @@ I'm a **Computer Science student at UNRC** (Universidad Nacional de Río Cuarto)
 ---
 
 <div align="center">
-![Nombre](https://img.shields.io/badge/TEXTO-COLOR_HEX?style=for-the-badge&logo=NOMBRE_DEL_LOGO&logoColor=white)
 
  *Thanks for visiting my profile!* 
 
